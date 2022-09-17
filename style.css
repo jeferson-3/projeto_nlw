@@ -82,10 +82,12 @@ section p{
 }
 
 section ul{
+  text-align: center;
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 15px;
   margin-top: 24px;
+  padding: auto;
 }
 
 section ul li {
@@ -158,11 +160,7 @@ main section:nth-child(3){
 @media(max-width: 412px){
 .gamesList img{
   text-align: center;
-  display: flex;
   width: 60px;
-  border-radius: 8px;
-  padding: 2px;
-  margin: ;
 }
 
 .channel-list img
@@ -175,7 +173,6 @@ main section:nth-child(3){
 }
 
 .Redes-social img{
-  
   height: 20px;
   border-radius: 8px;
   width: 60px;
