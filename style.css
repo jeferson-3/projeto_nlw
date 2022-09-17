@@ -158,25 +158,22 @@ main section:nth-child(3){
 /* Responsivo */
 
 @media(max-width: 412px){
+  
 .gamesList img{
   text-align: center;
-  width: 40px;
+  width: 50px;
 }
 
-.channel-list img
-{
-  border-radius: 50%;
+.channel-list img{
+  
   width: 40px;
-  border: 1px solid #443e54;
   padding: 2px;
 
 }
 
 .Redes-social img{
   height: 10px;
-  border-radius: 8px;
   width: 30px;
-  border: 2px solid #443e54;
  }
 }
 
