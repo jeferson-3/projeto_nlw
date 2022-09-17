@@ -158,7 +158,7 @@ main section:nth-child(3){
 @media(max-width: 400px){
 .gamesList img{
   display: flex;
-  width: 60px;
+  width: 50px;
   border-radius: 8px;
   padding: 2px;
 }
