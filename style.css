@@ -173,10 +173,11 @@ main section:nth-child(3){
 }
 
 .Redes-social img{
+  
   height: 23px;
-  border-radius: 5px;
-  width: 60px;
-  border: 1px solid #443e54;
+  border-radius: 8px;
+  width: 58px;
+  border: 2px solid #443e54;
  }
 }
 
