@@ -155,7 +155,9 @@ main section:nth-child(3){
 
 /* Responsivo */
 
+@media(max-width: 412px){
 .gamesList img{
+  display: flex;
   width: 60px;
   border-radius: 8px;
   padding: 2px;
@@ -164,7 +166,7 @@ main section:nth-child(3){
 .channel-list img
 {
   border-radius: 50%;
-  width: 70px;
+  width: 50px;
   border: 1px solid #443e54;
   padding: 2px;
 
@@ -175,7 +177,7 @@ main section:nth-child(3){
   border-radius: 5px;
   width: 62px;
   border: 1px solid #443e54;
-
+ }
 }
 
 
