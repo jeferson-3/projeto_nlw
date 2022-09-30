@@ -273,7 +273,7 @@ main section:nth-child(3){
   }
 
 }
-@media(max-width: 566px){
+@media(max-width: 570px){
   .section .max-width {
   padding: 0.50px;
   }
@@ -327,7 +327,7 @@ main section:nth-child(3){
   }
 
 }
-@media(max-width: 412px){
+@media(max-width: 420px){
   .section .max-width {
   padding: 0.50px;
   }
