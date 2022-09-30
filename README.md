@@ -3,7 +3,7 @@
 
 ![preview](./.github/preview.png)
 
-projeto cronstruido no evento Next level Week da Rocketseat.
+projeto construido no evento Next level Week da Rocketseat.
 
 [Clique aqui para acessar ->>](https://jeferson-3.github.io/projeto_nlw)
 
@@ -12,7 +12,6 @@ projeto cronstruido no evento Next level Week da Rocketseat.
 - HTML.
 - CSS.
 - GIT GITHUB.
-- JAVASCRIP.
 
 ## 📧 Contato
 
