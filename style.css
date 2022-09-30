@@ -159,6 +159,72 @@ main section:nth-child(3){
 
 /* Responsivo */
 
+@media(max-width: 650px){
+  .section .max-width {
+  padding: 0.50px;
+  }
+  .max-width{
+    padding: 0.50px;
+  }
+  section div{
+    padding: 35px;
+  }
+  section h2{
+    font-size: 25px;
+  }
+  section p{
+    font-size: 20px;
+  }
+  .gamesList img{
+    margin-left: 14px;
+    width: 90px;
+  }
+  .channel-list img
+  {
+    margin-left: 14px;
+    width: 90px;
+   
+  }
+  .Redes-social img
+  {
+    margin-left: 10px;
+    width: 130px;
+  }
+}
+
+@media(max-width: 600px){
+  .section .max-width {
+  padding: 0.50px;
+  }
+  .max-width{
+    padding: 0.50px;
+  }
+  section div{
+    padding: 35px;
+  }
+  section h2{
+    font-size: 25px;
+  }
+  section p{
+    font-size: 20px;
+  }
+  .gamesList img{
+    margin-left: 14px;
+    width: 90px;
+  }
+  .channel-list img
+  {
+    margin-left: 14px;
+    width: 60px;
+   
+  }
+  .Redes-social img
+  {
+    margin-left: 10px;
+    width: 90px;
+  }
+
+}
 @media(max-width: 500px){
   .section .max-width {
   padding: 0.50px;
@@ -177,15 +243,9 @@ main section:nth-child(3){
   }
   .gamesList img{
     width: 65px;
-    border-radius: 8px;
-  
   }
-  .channel-list img
-  {
-    border-radius: 50%;
+  .channel-list img{
     width: 63px;
-    border: 1px solid #443e54;
-  
   }
   .Redes-social img
   {
