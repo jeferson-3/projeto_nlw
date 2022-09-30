@@ -328,3 +328,35 @@ main section:nth-child(3){
   }
 
 }
+@media(max-width: 430px){
+  .section .max-width {
+  padding: 0.50px;
+  }
+  .max-width{
+    padding: 0.50px;
+  }
+  section ul{
+    margin-left: 15px;
+    gap: 1px;
+  }
+  section div{
+    padding: 32px;
+  }
+  section h2{
+    font-size: 20px;
+  }
+  section p{
+    font-size: 15px;
+  }
+  .gamesList img{
+    width: 50px;
+  }
+  .channel-list img{
+    width: 50px;
+  }
+  .Redes-social img
+  {
+    width: 85px;
+  }
+
+}
