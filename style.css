@@ -54,8 +54,7 @@ main{
   margin: 30px auto;
   display: grid;
   gap: 24px;
-
-  margin-top: 36px;
+ margin-top: 36px;
 
 }
 
@@ -328,7 +327,7 @@ main section:nth-child(3){
   }
 
 }
-@media(max-width: 456px){
+@media(max-width: 412px){
   .section .max-width {
   padding: 0.50px;
   }
@@ -336,7 +335,6 @@ main section:nth-child(3){
     padding: 0.50px;
   }
   section ul{
-    margin-left: 15px;
     gap: 1px;
   }
   section div{
@@ -356,7 +354,7 @@ main section:nth-child(3){
   }
   .Redes-social img
   {
-    width: 85px;
+    width: 76px;
   }
-
-}
+  
+  }
