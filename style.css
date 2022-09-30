@@ -159,7 +159,7 @@ main section:nth-child(3){
 
 /* Responsivo */
 
-@media(max-width: 412px){
+@media(max-width: 500px){
   .section .max-width {
   padding: 0.50px;
   }
