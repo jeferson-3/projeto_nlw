@@ -274,6 +274,28 @@ main section:nth-child(3){
   }
 
 }
+@media(max-width: 550px){
+  .section .max-width {
+  padding: 0.50px;
+  }
+  .max-width{
+    padding: 0.50px;
+  }
+  section ul{
+    margin-left: 30px;
+    gap: 5px;
+  }
+  .gamesList img{
+    width: 70px;
+  }
+  .channel-list img{
+    width: 70px;
+  }
+  .Redes-social img
+  {
+    width: 100px;
+  }
+}
 @media(max-width: 500px){
   .section .max-width {
   padding: 0.50px;
