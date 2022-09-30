@@ -67,16 +67,18 @@ section{
 }
 section div{
  background-color: #2a2634;
-  padding: 32px;
+  padding: 40px;
   padding-top: 24px;
   border-radius: 8px
   }
 
 section h2{
   letter-spacing: -0.47px;
+  text-align: center;
 }
 
 section p{
+  text-align: center;
   letter-spacing: -0.18px;
   color: #a1a1aa;
 }
@@ -111,7 +113,7 @@ section ul li:hover{
 }
 .Redes-social img
 {
-  border-radius: 10px;
+  border-radius: 8px;
   width: 108.9px;
   border: 1px solid #443e54;
 
@@ -158,29 +160,36 @@ main section:nth-child(3){
 /* Responsivo */
 
 @media(max-width: 412px){
+  .section .max-width {
+  padding: 0.50px;
+  }
+  .max-width{
+    padding: 0.50px;
+  }
+  section div{
+    padding: 32px;
+  }
+  section h2{
+    font-size: 20px;
+  }
+  section p{
+    font-size: 15px;
+  }
+  .gamesList img{
+    width: 65px;
+    border-radius: 8px;
   
-.gamesList img{
-  text-align: center;
-  width: 50px;
-}
-
-.channel-list img{
+  }
+  .channel-list img
+  {
+    border-radius: 50%;
+    width: 63px;
+    border: 1px solid #443e54;
   
-  width: 40px;
-  padding: 2px;
+  }
+  .Redes-social img
+  {
+    width: 70px;
+  }
 
 }
-
-.Redes-social img{
-  height: 10px;
-  width: 30px;
- }
-}
-
-
-
-
-
-
-
-
